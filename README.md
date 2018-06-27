@@ -49,5 +49,5 @@
 6. 打开 notebook
 
  ```
-jupyter notebook dog_app.ipynb
+jupyter notebook dog.ipynb
 ```
